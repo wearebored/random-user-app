@@ -73,12 +73,13 @@ p{
     height: 50px;
     width: 100%;
     font-size: 14px;
-
+    padding: 10px;
 }
 #div7 select{
     margin: 10px 0;
     height: 30px;
     width: 95%;
+    padding-left: 10px;
 }
 
 
@@ -98,6 +99,7 @@ p{
     margin-top: 10px;
     width: 90%;
     height: 100px;
+    padding: 20px;
 
 }
 #div9{
