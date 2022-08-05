@@ -15,14 +15,15 @@ body{
 h1{
     font-size: 40px;
     margin: 20px;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Bowlby One SC', cursive; 
+    letter-spacing: 5px;
 }
 h1 span{
     color: red;
 
 }
 p{
-    font-family: serif;
+    font-family: 'Sorts Mill Goudy', serif;
     font-size: 21px;
     font-weight: 600;
 }
@@ -71,6 +72,8 @@ p{
     margin: 10px 0;
     height: 50px;
     width: 100%;
+    font-size: 14px;
+
 }
 #div7 select{
     margin: 10px 0;
