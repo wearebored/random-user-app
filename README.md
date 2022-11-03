@@ -25,7 +25,7 @@ Project is an application that gives random user information.
 
 ## Pages
 
-[ Project Website ](https://celadon-melba-c8ef6f.netlify.app/)
+[ Project Website ](https://cheery-empanada-18cced.netlify.app/)
 
 ## Preview
 
